@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jpaztech.github.io/blog/vm/windows-noboot-summary/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jpaztech.github.io/blog/vm/what-is-this-dvd-drive/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jpaztech.github.io/blog/vm/win2016-jp-lpk-issue/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -30,6 +16,27 @@
   </url>
   
   <url>
+    <loc>https://jpaztech.github.io/blog/vm/windows-noboot-summary/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpaztech.github.io/blog/vm/what-is-this-dvd-drive/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpaztech.github.io/blog/vm/vmagent-error/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jpaztech.github.io/blog/vm/vmagent-notready/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://jpaztech.github.io/blog/vm/vm-replica-3/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jpaztech.github.io/blog/vm/vmagent-error/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -128,13 +128,6 @@
   </url>
   
   <url>
-    <loc>https://jpaztech.github.io/blog/vm/resource-health-alert/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jpaztech.github.io/blog/vm/resourcegroup-uppercase-lowercase/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -149,14 +142,21 @@
   </url>
   
   <url>
-    <loc>https://jpaztech.github.io/blog/vm/re-install-windows-azure-guest-agent/</loc>
+    <loc>https://jpaztech.github.io/blog/vm/resource-delete/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jpaztech.github.io/blog/vm/resource-delete/</loc>
+    <loc>https://jpaztech.github.io/blog/vm/resource-health-alert/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpaztech.github.io/blog/vm/re-install-windows-azure-guest-agent/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -317,20 +317,6 @@
   </url>
   
   <url>
-    <loc>https://jpaztech.github.io/blog/vm/20211013-rca-azure-vm/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jpaztech.github.io/blog/vm/7031-rdagent-restart/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jpaztech.github.io/blog/vm/azure-kms-update/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -353,6 +339,20 @@
   
   <url>
     <loc>https://jpaztech.github.io/blog/storage/storageFirewall-accesscontroll/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpaztech.github.io/blog/vm/20211013-rca-azure-vm/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpaztech.github.io/blog/vm/7031-rdagent-restart/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -394,6 +394,13 @@
   </url>
   
   <url>
+    <loc>https://jpaztech.github.io/blog/storage/addsAuthforAzureFiles/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jpaztech.github.io/blog/network/vpngw-how-to-check-maintenance/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -409,13 +416,6 @@
   
   <url>
     <loc>https://jpaztech.github.io/blog/other/azure_technical_support_explained/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jpaztech.github.io/blog/storage/addsAuthforAzureFiles/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -877,13 +877,6 @@
   </url>
   
   <url>
-    <loc>https://jpaztech.github.io/blog/archive/automation-vm-start-deallocate/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jpaztech.github.io/blog/archive/azure-datacenter-infrastructure-1/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -912,14 +905,7 @@
   </url>
   
   <url>
-    <loc>https://jpaztech.github.io/blog/archive/automation-vm-auto-deallocate/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jpaztech.github.io/blog/archive/application-gateway-waf-vulnerability-detection/</loc>
+    <loc>https://jpaztech.github.io/blog/archive/automation-vm-start-deallocate/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -947,6 +933,13 @@
   </url>
   
   <url>
+    <loc>https://jpaztech.github.io/blog/archive/automation-vm-auto-deallocate/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jpaztech.github.io/blog/archive/announcement-about-expressroute-deployment-model/</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -955,6 +948,13 @@
   
   <url>
     <loc>https://jpaztech.github.io/blog/archive/application-gateway-502-error-info/</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jpaztech.github.io/blog/archive/application-gateway-waf-vulnerability-detection/</loc>
     
     <lastmod>2023-05-18</lastmod>
     
